@@ -1,0 +1,20 @@
+
+3-Day Mammogram Cancer Detection Model Plan:
+
+Day 1: Data Preparation and Preprocessing
+- Collect and organize mammogram dataset
+- Preprocess images: resizing, normalization, and augmentation
+- Split data into training, validation, and test sets
+
+Day 2: Model Architecture and Training
+- Design CNN architecture for mammogram classification
+- Implement the model using Keras
+- Train the model on the prepared dataset
+- Monitor training progress and adjust hyperparameters
+
+Day 3: Model Evaluation and Refinement
+- Evaluate model performance on the test set
+- Analyze results using appropriate metrics (e.g., ROC curve, AUC)
+- Refine the model: try different architectures or transfer learning
+- Document findings and prepare for dissertation presentation
+
